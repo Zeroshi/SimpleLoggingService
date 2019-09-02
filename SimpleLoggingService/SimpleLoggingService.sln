@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleLoggingService", "SimpleLoggingService\SimpleLoggingService.csproj", "{5262822E-4E88-4EA7-98EF-05021D383C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLoggingService.Tests", "SimpleLoggingService.Tests\SimpleLoggingService.Tests.csproj", "{F1846EF8-4373-4160-A8CB-364C79F444CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5262822E-4E88-4EA7-98EF-05021D383C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5262822E-4E88-4EA7-98EF-05021D383C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5262822E-4E88-4EA7-98EF-05021D383C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5262822E-4E88-4EA7-98EF-05021D383C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1846EF8-4373-4160-A8CB-364C79F444CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1846EF8-4373-4160-A8CB-364C79F444CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1846EF8-4373-4160-A8CB-364C79F444CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1846EF8-4373-4160-A8CB-364C79F444CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {642EFBBA-9CCA-4D5F-82BA-E302E3EBCC8D}
+	EndGlobalSection
+EndGlobal
